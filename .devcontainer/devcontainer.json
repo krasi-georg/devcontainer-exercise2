@@ -1,0 +1,13 @@
+{
+    "name": "devcontainer",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "settings": {
+        "workbench.colorTheme": "Default Dark+",
+    },     
+    "extensions": [
+        "ms-vscode.go",
+    ],
+
+}
